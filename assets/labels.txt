@@ -1,0 +1,2 @@
+0 Normal Case
+1 Pneumonia Detected
